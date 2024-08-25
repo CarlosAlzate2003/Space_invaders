@@ -1,0 +1,5 @@
+click==8.1.7
+colorama==0.4.6
+h11==0.14.0
+pygame==2.6.0
+uvicorn==0.30.6
