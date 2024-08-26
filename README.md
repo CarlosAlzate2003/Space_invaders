@@ -16,8 +16,8 @@ Antes de comenzar, asegúrate de tener instalado:
 Primero, clona este repositorio en tu máquina local utilizando el siguiente comando:
 
 ```bash
-git clone https://github.com/tu_usuario/space_invader.git
-cd space_invader
+git clone https://github.com/CarlosAlzate2003/Space_invaders.git
+cd Space_invaders
 ```
 
 ### 2. Crear el Entorno Virtual
