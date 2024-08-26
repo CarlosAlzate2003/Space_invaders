@@ -61,7 +61,7 @@ uvicorn main:app
 ### Estructura del proyecto
 
 ```bash
-Space_invader/
+Space_invaders/
 │
 ├── icons/                  # Imágenes y recursos del juego
 ├── music/                  # (chihiro - billie eilish)
